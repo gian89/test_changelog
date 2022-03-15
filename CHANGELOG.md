@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/gian89/test_changelog/compare/v4.0.0...v5.0.0) (2022-03-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+
+### Features
+
+* allow provided config object to extend other configs ([08f18c9](https://github.com/gian89/test_changelog/commit/08f18c9e159e82c666cf495c97c31ac5708e0930))
+
 ## [4.0.0](https://github.com/gian89/test_changelog/compare/v3.0.5...v4.0.0) (2022-03-15)
 
 
