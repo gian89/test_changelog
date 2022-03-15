@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/gian89/test_changelog/compare/v2.3.7...v3.0.0) (2022-03-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* use JavaScript features not available in Node 6.
+
+* drop support for Node 6 ([2f48e53](https://github.com/gian89/test_changelog/commit/2f48e53e69d11e145ff6808f5aacecc9353a034a))
+
 ### [2.3.7](https://github.com/gian89/test_changelog/compare/v2.3.6...v2.3.7) (2022-03-15)
 
 ### [2.3.6](https://github.com/gian89/test_changelog/compare/v2.3.5...v2.3.6) (2022-03-15)
