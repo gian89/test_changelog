@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.3.0](https://github.com/gian89/test_changelog/compare/v5.2.1...v5.3.0) (2022-03-15)
+
+
+### Features
+
+* feature riga semplice ([72b1a05](https://github.com/gian89/test_changelog/commit/72b1a05e8909c007ab483c7fb334a25d65a3b8e3))
+
 ### [5.2.1](https://github.com/gian89/test_changelog/compare/v5.2.0...v5.2.1) (2022-03-15)
 
 
