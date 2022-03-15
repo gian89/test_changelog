@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.1.0](https://github.com/gian89/test_changelog/compare/v5.0.0...v5.1.0) (2022-03-15)
+
+
+### Features
+
+* **lang:** add Polish language ([882dfb5](https://github.com/gian89/test_changelog/commit/882dfb57b29e1cdb1ad4ba9077678563e055fecc))
+
 ## [5.0.0](https://github.com/gian89/test_changelog/compare/v4.0.0...v5.0.0) (2022-03-15)
 
 
