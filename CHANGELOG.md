@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.0.1](https://github.com/gian89/test_changelog/compare/v6.0.0...v6.0.1) (2022-03-15)
+
+
+### Bug Fixes
+
+* **api:** fix riga con scope ([88bcc1e](https://github.com/gian89/test_changelog/commit/88bcc1e7f3e6d6453e2ef86d1f55fc8d6fb99e13))
+
 ## [6.0.0](https://github.com/gian89/test_changelog/compare/v5.3.1...v6.0.0) (2022-03-15)
 
 
