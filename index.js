@@ -5,3 +5,4 @@ console.log('starting4');
 console.log('starting5');
 console.log('starting6');
 console.log('starting7');
+console.log('starting8');
