@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.7](https://github.com/gian89/test_changelog/compare/v2.3.6...v2.3.7) (2022-03-15)
+
 ### [2.3.6](https://github.com/gian89/test_changelog/compare/v2.3.5...v2.3.6) (2022-03-15)
 
 
