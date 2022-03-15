@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.0.0](https://github.com/gian89/test_changelog/compare/v7.0.0...v8.0.0) (2022-03-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+
+### Features
+
+* feature con un braking_chanhes che è scritto esplicitamente ([d5c871e](https://github.com/gian89/test_changelog/commit/d5c871ec5015569c7a9952ddf0c0fe08daa5c2c1))
+
 ## [7.0.0](https://github.com/gian89/test_changelog/compare/v6.0.1...v7.0.0) (2022-03-15)
 
 
