@@ -28,6 +28,7 @@ const test2 = () => {
     //     return e;
     // }
 
+
     console.log('test2');
     return new Error('test2');
 
