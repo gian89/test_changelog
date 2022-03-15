@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/gian89/test_changelog/compare/v3.0.5...v4.0.0) (2022-03-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* prova con punto esclamativo
+
+### Bug Fixes
+
+* prova con punto esclamativo ([50501f5](https://github.com/gian89/test_changelog/commit/50501f53192acb8b34d59fb4e24f31ce5e7b7208))
+
 ### [3.0.5](https://github.com/gian89/test_changelog/compare/v3.0.4...v3.0.5) (2022-03-15)
 
 
