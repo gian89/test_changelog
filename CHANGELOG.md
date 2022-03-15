@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.0.0](https://github.com/gian89/test_changelog/compare/v6.0.1...v7.0.0) (2022-03-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **api:** fix riga con scope e punto esclamativo
+
+### Bug Fixes
+
+* **api:** fix riga con scope e punto esclamativo ([6e778c1](https://github.com/gian89/test_changelog/commit/6e778c1fb7255a22364cb2fe18132a0dafb0afb1))
+
 ### [6.0.1](https://github.com/gian89/test_changelog/compare/v6.0.0...v6.0.1) (2022-03-15)
 
 
