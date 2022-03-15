@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.6](https://github.com/gian89/test_changelog/compare/v2.3.5...v2.3.6) (2022-03-15)
+
+
+### Bug Fixes
+
+* prevent racing of requests ([24b45e0](https://github.com/gian89/test_changelog/commit/24b45e0c82af2a0600bc23130e5fcaeec46d2d35))
+
 ### [2.3.5](https://github.com/gian89/test_changelog/compare/v2.3.4...v2.3.5) (2022-03-15)
 
 ### [2.3.4](https://github.com/gian89/test_changelog/compare/v2.3.3...v2.3.4) (2022-03-15)
