@@ -17,16 +17,16 @@ const test1 = async () => {
 
 
 const test2 = () => {
-    // return new Promise((resolve, reject) => {
-    //     reject(new Error('test2'))
-    // })
-    //
-    try {
-        console.log('test2');
-        throw new Error('test2');
-    }catch (e) {
-        return e;
-    }
+    return new Promise((resolve, reject) => {
+        reject(new Error('test2'))
+    })
+
+    // try {
+    //     console.log('test2');
+    //     throw new Error('test2');
+    // }catch (e) {
+    //     return e;
+    // }
     // console.log('test2');
     // return new Error('test2');
 }
