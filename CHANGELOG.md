@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.2.0](https://github.com/gian89/test_changelog/compare/v5.1.2...v5.2.0) (2022-03-15)
+
+
+### Features
+
+* commit con BREAKING_CHANGES ([80749ee](https://github.com/gian89/test_changelog/commit/80749ee6ca8fb9a466f6769a39bf30945f03d5f8))
+
 ### [5.1.2](https://github.com/gian89/test_changelog/compare/v5.1.1...v5.1.2) (2022-03-15)
 
 
