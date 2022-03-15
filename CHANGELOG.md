@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.1.2](https://github.com/gian89/test_changelog/compare/v5.1.1...v5.1.2) (2022-03-15)
+
+
+### Bug Fixes
+
+* riga semplice senza body ([87e92aa](https://github.com/gian89/test_changelog/commit/87e92aa3ba27f43106311bbd0b2e5fa8a2707525))
+
 ### [5.1.1](https://github.com/gian89/test_changelog/compare/v5.1.0...v5.1.1) (2022-03-15)
 
 
