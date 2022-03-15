@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.2.1](https://github.com/gian89/test_changelog/compare/v5.2.0...v5.2.1) (2022-03-15)
+
+
+### Bug Fixes
+
+* add missing parameter to service call ([b99de8c](https://github.com/gian89/test_changelog/commit/b99de8c3279318c8e23f80a12cf595e376180401))
+
 ## [5.2.0](https://github.com/gian89/test_changelog/compare/v5.1.2...v5.2.0) (2022-03-15)
 
 
