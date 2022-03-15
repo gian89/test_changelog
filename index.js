@@ -27,6 +27,7 @@ const test2 = () => {
     // }catch (e) {
     //     return e;
     // }
+
     console.log('test2');
     return new Error('test2');
 
