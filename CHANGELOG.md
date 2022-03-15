@@ -8,6 +8,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [2.3.2](https://github.com/gian89/test_changelog/compare/v2.3.1...v2.3.2) (2022-03-15)
 
+### Bug Fixes
+
+* prevent racing of requests 2
+
 ### [2.3.1](https://github.com/gian89/test_changelog/compare/v2.3.0...v2.3.1) (2022-03-15)
 
 
