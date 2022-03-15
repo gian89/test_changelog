@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/gian89/test_changelog/compare/v2.2.0...v2.3.0) (2022-03-15)
+
+
+### Features
+
+* allow provided config object to extend other configs4 ([61b725a](https://github.com/gian89/test_changelog/commit/61b725a2651fceca63f916e2ce8f845d9d802807))
+
 ## [2.2.0](https://github.com/gian89/test_changelog/compare/v2.1.0...v2.2.0) (2022-03-15)
 
 
